@@ -1,0 +1,4 @@
+com/fp/system/LogbackAutoConfiguration.class
+com/fp/system/LogbackProperties.class
+com/fp/system/LogbackOperator.class
+com/fp/system/LoggerMessage.class
